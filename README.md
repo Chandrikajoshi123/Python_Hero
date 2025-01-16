@@ -49,3 +49,24 @@ Whether you are learning Python for data analysis, web development, or automatio
 8. **Bonus Content**<br>
 &bull;Python Libraries<br>
 &bull;Practice Project<br>
+
+-------------------------------------------
+## How to Use This Repository<br>
+1. **Start from the Basics:** Begin with the foundational topics in python Basics and gradually move to advanced sections.<br>
+2. **Practice Regularly:** Each section includes coding practice questions to test your understanding.<br>
+3. **Explore Examples:** Real-world examples are provided to help you understand how python is used in daily applications.<br>
+4. **Apply your Knowledge:** Use the bonus projects to apply what you've learned.<br>
+
+-------------------------------------------
+## Contributing 
+Wlcome contributions to improve this repositoy!<br>
+&bull;Found an error? Submiy an issue.<br>
+&bull;Have a great example or project? create a pull request.
+
+--------------------------------------------
+## License
+This repositoy is licensed under the MIT License. Feel free to use, modify, and share this content.
+
+--------------------------------------------
+## Contact
+For any questions or suggestions, feel free to open an issue or connect on Github.
