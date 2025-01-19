@@ -1,31 +1,32 @@
-#Python 
+📌 Python 
 "It is heigh level programming language that is easy to read and write. It is like speaking simple English with the computer. 
 It helps to create website, apps, games, data analysis tools, and much more.
 Think of python as a tool that allow you to tell the computer what to do in a very straightforward way."
 --------------------------------------------------------------------------------------------------------------------------
 
-# Why Learn Python?
-python is popular because it is 
-Easy to learn 
-Versatile
-Huge Community
-In-Deamnd skill 
-Cross paltform 
+📌 Why Learn Python?
+➕ python is popular because it is 
+➕ Easy to learn 
+➕ Versatile
+➕ Huge Community
+➕ In-Deamnd skill 
+➕ Cross paltform 
 
-# What can python Do?
+--------------------------------------------------------------------------------------------------------------------------
+📌 What can python Do?
 
-Simple calculator want to add two numbers
+➕ Simple calculator want to add two numbers
 print(5+4) #Output:9
 
-To do list 
+➕ To do list 
 tasks=["Study Spanish","Do Homework","watch Series"]
 for task in tasks:
        print(task)
 
 
-Build a Website With libraries like Django or Flask, you can create amazing websites like Instagram or YouTube.
+➕ Build a Website With libraries like Django or Flask, you can create amazing websites like Instagram or YouTube.
 
-Data Analysis Python is widely used to analyze data and make charts.
+➕ Data Analysis Python is widely used to analyze data and make charts.
 
 import pandas as pd 
 import numpy as np 
@@ -38,12 +39,12 @@ plt.plot(x, y)
 plt.title("Simple Line Graph")
 plt.show()
 
-Automate Repetitive Tasks Python can help you save time by automating things like renaming files or sending emails.
+➕ Automate Repetitive Tasks Python can help you save time by automating things like renaming files or sending emails.
 
 import os
 for file in os.listdir():
     print("Found file:", file)
 
 --------------------------------------------------------------------------------------------------------------------------
-# Why Beginners Love Python
+📌 Why Beginners Love Python
 It doesn’t have complicated rules
