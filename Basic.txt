@@ -1,0 +1,13 @@
+#Python 
+"It is heigh level programming language that is easy to read and write. It is like speaking simple English with the computer. 
+It helps to create website, apps, games, data analysis tools, and much more.
+Think of python as a tool that allow you to tell the computer what to do in a very straightforward way."
+--------------------------------------------------------------------------------------------------------------------------
+
+# Why Learn Python?
+python is popular because it is 
+Easy to learn 
+Versatile
+Huge Community
+In-Deamnd skill 
+Cross paltform 
