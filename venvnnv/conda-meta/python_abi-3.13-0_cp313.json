@@ -1,0 +1,31 @@
+{
+  "build": "0_cp313",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [
+    "python 3.13.* *_cp313"
+  ],
+  "depends": [],
+  "extracted_package_dir": "/opt/conda/pkgs/python_abi-3.13-0_cp313",
+  "files": [],
+  "fn": "python_abi-3.13-0_cp313.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "/opt/conda/pkgs/python_abi-3.13-0_cp313",
+    "type": 1
+  },
+  "md5": "d4009c49dd2b54ffded7f1365b5f6505",
+  "name": "python_abi",
+  "package_tarball_full_path": "/opt/conda/pkgs/python_abi-3.13-0_cp313.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "68cca72839da8a7790ebbb4905e697febb4928ce01de26e55120213c03372182",
+  "size": 5920,
+  "subdir": "linux-64",
+  "timestamp": 1727769891000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/python_abi-3.13-0_cp313.conda",
+  "version": "3.13"
+}
