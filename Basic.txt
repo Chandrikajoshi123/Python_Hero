@@ -11,3 +11,39 @@ Versatile
 Huge Community
 In-Deamnd skill 
 Cross paltform 
+
+# What can python Do?
+
+Simple calculator want to add two numbers
+print(5+4) #Output:9
+
+To do list 
+tasks=["Study Spanish","Do Homework","watch Series"]
+for task in tasks:
+       print(task)
+
+
+Build a Website With libraries like Django or Flask, you can create amazing websites like Instagram or YouTube.
+
+Data Analysis Python is widely used to analyze data and make charts.
+
+import pandas as pd 
+import numpy as np 
+import matplotlib.pyplot as plt 
+import seaborn as sns 
+x = [1, 2, 3, 4]
+y = [2, 4, 6, 8]
+
+plt.plot(x, y)
+plt.title("Simple Line Graph")
+plt.show()
+
+Automate Repetitive Tasks Python can help you save time by automating things like renaming files or sending emails.
+
+import os
+for file in os.listdir():
+    print("Found file:", file)
+
+--------------------------------------------------------------------------------------------------------------------------
+# Why Beginners Love Python
+It doesn’t have complicated rules
