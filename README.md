@@ -11,44 +11,37 @@ Whether you are learning Python for data analysis, web development, or automatio
 ------------------------------------------
 ## Table of Contents
 
-1. **Getting Started**<br>
-&bull;What is Python?<br>
-       &bull;Why Learn Pthon?<br>
-       &bull;Installing Python and Setting up your Environment<br>
-       
-2. **Python Basiscs**<br>
-   &bull;Variables and Data Types<br>
-&bull;Operators<br>
-&bull;Input and Output<br>
+1. [Introduction](#introduction)
+2. [Getting Started](#getting-started)
+3. [Basic Concepts](#basic-concepts)
+    - [Variables](#variables)
+    - [Data Types](#data-types)
+    - [Operators](#operators)
+    - [Control Flow](#control-flow)
+    - [Functions](#functions)
+4. [Advanced Topics](#advanced-topics)
+    - [Object-Oriented Programming](#object-oriented-programming)
+    - [Modules and Packages](#modules-and-packages)
+    - [File Handling](#file-handling)
+    - [Exception Handling](#exception-handling)
+    - [Decorators](#decorators)
+    - [Generators](#generators)
+    - [Context Managers](#context-managers)
+    - [Regular Expressions](#regular-expressions)
+    - [Concurrency and Parallelism](#concurrency-and-parallelism)
+    - [Asynchronous Programming](#asynchronous-programming)
+    - [Unit Testing](#unit-testing)
+5. [Projects](#projects)
+6. [Contributing](#contributing)
+7. [License](#license)
 
-3. **Control Structures**<br>
-   &bull;if-Else Statements<br>
-   &bull;Loops<br>
-   
-4. **Functions**<br>
-   &bull;Defining Functions<br>
-   &bull;Arguments and Return Values<br>
-   &bull;Lambda Functions<br>
-   
-5. **Data Structures**<br>
-   &bull;List<br>
-   &bull;Dictionaries<br>
-   &bull;Tuples and Sets<br>
-   
-6. **Object Oriented Programming (OOP)**<br>
-&bull;Classes and Objects<br>
-&bull;Inheritance<br>
-&bull;Ploymorphism<br>
+## Introduction
+Python is a versatile and beginner-friendly programming language. It's widely used in web development, data analysis, artificial intelligence, scientific computing, and more. This repository aims to provide you with the knowledge and skills you need to become a Python Hero.
 
-7. **Advanced Topics**<br>
-&bull;File Handling<br>
-&bull;Exception Handling<br>
-&bull;Decorators<br>
-&bull;Geerators<br>
+## Getting Started
+To get started with Python, you need to install Python on your computer. You can download it from the official [Python website](https://www.python.org/). Once installed, you can write and run Python code using an Integrated Development Environment (IDE) like PyCharm, VS Code, or even a simple text editor.
 
-8. **Bonus Content**<br>
-&bull;Python Libraries<br>
-&bull;Practice Project<br>
+
 
 -------------------------------------------
 ## How to Use This Repository<br>
