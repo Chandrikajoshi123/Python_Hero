@@ -1,0 +1,64 @@
+1.Temperature Converter
+   Description: Create a program that converts temperatures between Fahrenheit, Celsius, and Kelvin.
+
+2.To-Do List Application
+  Description: Build a command-line to-do list application where users can add, remove, and view tasks.
+
+3.Simple Calculator
+  Description: Develop a basic calculator that performs addition, subtraction, multiplication, and division.
+
+4.Contact Book
+  Description: Create a program to store and manage contact information (name, phone number, email).
+
+5.Rock, Paper, Scissors Game
+  Description: Implement the classic game of Rock, Paper, Scissors where the user plays against the computer.
+
+6.Quiz Application
+  Description: Develop a quiz application that asks the user multiple-choice questions and provides a score at the end.
+
+7.Web Scraper
+  Description: Create a web scraper that extracts information from a website and displays it in a readable format.
+
+8.Weather App
+  Description: Build a weather application that fetches and displays weather information for a given location.
+
+9.Password Generator
+  Description: Create a program that generates strong, random passwords based on user-specified criteria.
+
+10.Tic-Tac-Toe Game
+  Description: Implement a two-player Tic-Tac-Toe game that can be played in the console.
+
+11.Expense Tracker
+  Description: Develop an application to track daily expenses and generate a summary report.
+
+12.Chatbot
+  Description: Create a simple rule-based chatbot that can respond to user queries.
+
+13.Image Gallery
+  Description: Build an image gallery application that allows users to upload, view, and delete images.
+
+14.Sudoku Solver
+  Description: Implement a program that solves Sudoku puzzles using a backtracking algorithm.
+
+15.Markdown to HTML Converter
+  Description: Create a program that converts Markdown text to HTML.
+
+16. Personal Diary
+    Description: Develop a personal diary application where users can write and save daily entries.
+
+17. Hangman Game
+    Description: Implement the classic Hangman game where the user guesses letters to form a word.
+
+18. Alarm Clock
+    Description: Create a program that functions as an alarm clock, allowing users to set alarms.
+
+19. Currency Converter
+    Description: Build a currency converter that converts amounts between different currencies using real-time exchange rates.
+
+20. File Organizer
+    Description: Develop a script that organizes files in a directory based on their file types.
+
+
+
+
+
