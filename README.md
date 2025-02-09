@@ -258,7 +258,7 @@ Check out the projects directory for hands-on projects that will help you apply 
 -------------------------------------------
 ## Contributing 
 Wlcome contributions to improve this repositoy!<br>
-&bull;Found an error? Submiy an issue.<br>
+&bull;Found an error? Submit an issue.<br>
 &bull;Have a great example or project? create a pull request.
 
 --------------------------------------------
