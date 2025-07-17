@@ -271,3 +271,5 @@ For any questions or suggestions, feel free to open an issue or connect on Githu
 
 ## Fun Learning
 link: https://www.codedex.io/home
+
+<img width="1440" height="900" alt="Screenshot 2025-07-17 at 9 13 38 AM" src="https://github.com/user-attachments/assets/39a29ad1-54c7-4513-a6e6-c2a440ef3d0f" />
