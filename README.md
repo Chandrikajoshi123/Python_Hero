@@ -268,3 +268,6 @@ This repositoy is licensed under the MIT License. Feel free to use, modify, and 
 --------------------------------------------
 ## Contact
 For any questions or suggestions, feel free to open an issue or connect on Github.
+
+## Fun Learning
+link: https://www.codedex.io/home
